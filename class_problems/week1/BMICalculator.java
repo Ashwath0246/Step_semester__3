@@ -1,3 +1,5 @@
+package week1;
+
 public class BMICalculator {
 
     static String getBmiStatus(double bmi) {
